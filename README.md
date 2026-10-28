@@ -105,7 +105,6 @@ The proposed workflow follows these stages:
 7. **Close:** The case is closed after the required approval.
 8. **Analyze:** Dashboard metrics and reports help identify recurring patterns.
 
-The backend should validate permitted status transitions and enforce role-based permissions.
 
 ## Technology Stack
 
@@ -184,7 +183,7 @@ INSTITRACK/
 └── README.md
 ```
 
-*The structure above is illustrative. Adjust it to match the actual files in your repository.*
+
 
 ## Getting Started
 
