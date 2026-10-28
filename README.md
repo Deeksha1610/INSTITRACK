@@ -313,8 +313,7 @@ By bringing relevant case information into one dashboard, the platform can help 
 - **Project:** INSTITRACK
 - **Hackathon:** Smart India Hackathon (SIH)
 - **Theme:** Smart automation 
--
-- 
+
 
 ## Disclaimer
 
